@@ -16,8 +16,6 @@ Here are some places where you can buy or get the PCB manufactured:
 
 <a href="https://oshpark.com/shared_projects/k3kgwL1g">OSHPark</a>
 
-<a href="https://oshpark.com/shared_projects/k3kgwL1g">OSHPark</a>
-
 <a href="https://ko-fi.com/s/fb74edab4f">Ko-Fi Shop</a>
 
 
