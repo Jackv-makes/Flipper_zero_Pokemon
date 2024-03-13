@@ -10,6 +10,9 @@ https://lab.flipper.net/apps/pokemon
 
 ![image](https://github.com/Jackv-makes/Flipper_zero_Pokemon/assets/11802629/0f004f5a-5c74-4059-a229-d565cc3953f5)
 
+![image](https://github.com/Jackv-makes/Flipper_zero_Pokemon/assets/11802629/3ba8287f-e7c1-4aa7-be5a-be63eb6553bd)
+
+
 Here are some places where you can buy or get the PCB manufactured:
 
 <a href="https://www.pcbway.com/project/shareproject/Flipper_Zero_Pokemon_Trading_Tool_b1f06530.html">PCBWay</a>
