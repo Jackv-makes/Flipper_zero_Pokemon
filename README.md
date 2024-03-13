@@ -10,9 +10,14 @@ https://lab.flipper.net/apps/pokemon
 
 ![image](https://github.com/Jackv-makes/Flipper_zero_Pokemon/assets/11802629/0f004f5a-5c74-4059-a229-d565cc3953f5)
 
-Here are some places where you can get the PCB manufactured:
+Here are some places where you can buy or get the PCB manufactured:
 
 <a href="https://www.pcbway.com/project/shareproject/Flipper_Zero_Pokemon_Trading_Tool_b1f06530.html">PCBWay</a>
 
 <a href="https://oshpark.com/shared_projects/k3kgwL1g">OSHPark</a>
+
+<a href="https://oshpark.com/shared_projects/k3kgwL1g">OSHPark</a>
+
+<a href="https://ko-fi.com/s/fb74edab4f">Ko-Fi Shop</a>
+
 
