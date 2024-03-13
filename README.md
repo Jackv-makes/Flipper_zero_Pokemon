@@ -7,3 +7,6 @@ https://github.com/EstebanFuentealba/Flipper-Zero-Game-Boy-Pokemon-Trading
 
 Flipper Zero Pokemon Trading app:
 https://lab.flipper.net/apps/pokemon
+
+![image](https://github.com/Jackv-makes/Flipper_zero_Pokemon/assets/11802629/0f004f5a-5c74-4059-a229-d565cc3953f5)
+
