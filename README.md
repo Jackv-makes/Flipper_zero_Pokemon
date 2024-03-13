@@ -12,6 +12,7 @@ https://lab.flipper.net/apps/pokemon
 
 Here are some places where you can get the PCB manufactured:
 
-https://www.pcbway.com/project/shareproject/Flipper_Zero_Pokemon_Trading_Tool_b1f06530.html
-https://oshpark.com/shared_projects/k3kgwL1g
+<a href="https://www.pcbway.com/project/shareproject/Flipper_Zero_Pokemon_Trading_Tool_b1f06530.html">PCBWay</a>
+
+<a href="https://oshpark.com/shared_projects/k3kgwL1g">OSHPark</a>
 
