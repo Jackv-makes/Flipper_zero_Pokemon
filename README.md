@@ -21,4 +21,11 @@ Here are some places where you can buy or get the PCB manufactured:
 
 <a href="https://ko-fi.com/s/fb74edab4f">Ko-Fi Shop</a>
 
+# Disclaimer
+I will not provide any support on these regulators and take no responsibility for any issues or damages that may occur if you build or use this inappropriately. 
 
+# License
+
+ [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ 
+This project/PCB is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ***Under this license, you are not permitted to profit from or commercialize this project.***
