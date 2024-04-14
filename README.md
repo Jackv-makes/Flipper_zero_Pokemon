@@ -17,6 +17,10 @@ Here are some places where you can buy or get the PCB manufactured:
 
 <a href="https://www.pcbway.com/project/shareproject/Flipper_Zero_Pokemon_Trading_Tool_b1f06530.html">PCBWay</a>
 
+If you've never used PCBWay before, it's a great option for 3D printing services and PCB manufacturing. Signing up using my referral link will give you a free $5 to spend
+
+[Referral link](https://pcbway.com/g/yL2sfr)
+
 <a href="https://oshpark.com/shared_projects/k3kgwL1g">OSHPark</a>
 
 <a href="https://ko-fi.com/s/fb74edab4f">Ko-Fi Shop</a>
